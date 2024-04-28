@@ -1,0 +1,157 @@
+.main{
+    width: 1440px;
+    height: 1904px;
+    margin: 0;
+    padding: 0px;
+    /* margin: auto; */
+    border:1px solid firebrick;
+
+}
+.box1{
+    background-color:#434CCC;
+}
+.b1{
+    display: flex;
+}
+
+.logo{
+    width: 268px;
+    height: 233px;
+    /* border:1px solid darkblue; */
+}
+.logo>h3{
+    
+    color: rgba(255, 255, 255, 1);
+    font-family: DM Serif Display;
+    font-size: 40px;
+    text-align: left;
+    padding-left: 135px;
+    padding-top: 16px;
+
+}
+
+.nav{
+    width: 324px;
+    height: 24px;
+    margin-left: 503px;
+    margin-top: 28px;
+}
+
+.nav>span{
+    /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
+    width: 324px;
+    height: 24px;
+    top: 28px;
+    left: 771px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: right;
+    color: rgba(255, 255, 255, 1);
+    padding-right: 30px;
+    
+}
+
+
+
+
+
+
+.navbutton{
+    width: 170px;
+    height: 48px;
+    margin-right: 135px;
+    margin-top: 16px;
+    background-color:#434CCC;
+    border:1px solid #6D73D7;
+    border-radius: 5px;
+    
+}
+
+.navbutton>span{
+    color: rgba(255, 255, 255, 1);
+    font-family: DM Sans;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.box1>h1{
+   
+        font-family: DM Serif Display;
+        font-size: 72px;
+        line-height: 80px;
+        text-align: center;
+        color: rgba(255, 255, 255, 1);
+        /* margin-left: 328px; */
+}
+.box1>p{
+    width: 324px;
+    height: 32px;
+    top: 217px;
+    left: 558px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    font-family: DM Sans;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    padding-left: 558px;
+    padding-top: 10px;
+    margin-bottom: 55px;
+}
+.box2{
+    width: 1170px;
+    height: 640px;
+    margin-left: 135px;
+    margin-top: 64px;
+    background-image: url(./Bitmap.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.cir{
+    height: 108px;
+    width: 108px;
+    border-radius: 70px;
+    border: 1px solid #8698FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.bx1{
+    display: flex;
+}
+.bx1 :nth-child(1){
+    color: rgba(0, 0, 0, 1);
+    font-family: DM Serif Display;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: left;
+    margin-top: 60px;
+    margin-left: 135px;
+    
+}
+.bx1 :nth-child(2){
+    color: rgba(0, 0, 0, 1);
+    font-family: DM Serif Display;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: left;
+    margin-top: 60px;
+    margin-left: 694px;
+    
+}
+
+
+
+
+
+
